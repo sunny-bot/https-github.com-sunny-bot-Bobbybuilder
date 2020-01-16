@@ -12,7 +12,11 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         Text("Hello World")
-        var newVariable = 1
+ experiment
+        var experimentVariable = 0
+
+        
+ 
     }
 }
 
