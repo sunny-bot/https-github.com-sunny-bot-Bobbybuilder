@@ -14,7 +14,7 @@ struct ContentView: View {
         Text("Hello World")
  experiment
         var experimentVariable = 0
-
+var kennethvar = 1
         
  
     }
